@@ -7,7 +7,6 @@ namespace ProvisionTool
         protected override void OnStartup(StartupEventArgs e)
         {
             base.OnStartup(e);
-            // Initialize application
         }
     }
 }
