@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProvisionTool": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
